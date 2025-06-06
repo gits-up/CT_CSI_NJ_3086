@@ -1,0 +1,2 @@
+Hello! This is the input text file.
+This content will be converted to uppercase and saved to another file.
