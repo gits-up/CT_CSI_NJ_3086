@@ -1,0 +1,17 @@
+{
+  "Spice Garden": [
+    { "name": "Paneer Butter Masala", "price": 250 },
+    { "name": "Garlic Naan", "price": 60 },
+    { "name": "Chicken Biryani", "price": 300 }
+  ],
+  "Sushi World": [
+    { "name": "California Roll", "price": 500 },
+    { "name": "Miso Soup", "price": 150 },
+    { "name": "Salmon Nigiri", "price": 600 }
+  ],
+  "Pasta Palace": [
+    { "name": "Spaghetti Bolognese", "price": 400 },
+    { "name": "Fettuccine Alfredo", "price": 380 },
+    { "name": "Garlic Bread", "price": 120 }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "location": "Mumbai",
+    "priceRange": "Medium",
+    "rating": 4.5
+  },
+  {
+    "name": "Sushi World",
+    "cuisine": "Japanese",
+    "location": "Bangalore",
+    "priceRange": "High",
+    "rating": 4.8
+  },
+  {
+    "name": "Pasta Palace",
+    "cuisine": "Italian",
+    "location": "Delhi",
+    "priceRange": "Medium",
+    "rating": 4.2
+  }
+]
